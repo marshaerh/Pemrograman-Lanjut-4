@@ -1,0 +1,19 @@
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\bin\Debug\DataMahasiswa1.exe.config
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\bin\Debug\DataMahasiswa1.exe
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\bin\Debug\DataMahasiswa1.pdb
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.csprojAssemblyReference.cache
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.FrmDataMahasiswa.resources
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.Properties.Resources.resources
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.csproj.GenerateResource.cache
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.exe
+D:\Dokumen\Kuliah\SEMESTER 3\PEMROGRAMAN LANJUT\LATIHAN\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.pdb
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\bin\Debug\DataMahasiswa1.exe.config
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\bin\Debug\DataMahasiswa1.exe
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\bin\Debug\DataMahasiswa1.pdb
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.csprojAssemblyReference.cache
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.Properties.Resources.resources
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.csproj.GenerateResource.cache
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.exe
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.pdb
+D:\PEMROGRAMA LANJUT\4\DataMahasiswa1\DataMahasiswa1\obj\Debug\DataMahasiswa1.FrmDataKursus.resources
